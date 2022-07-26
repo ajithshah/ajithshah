@@ -20,10 +20,14 @@
 - Operating System: – Windows, Mac OS X.
 
 ### Languages Known
+
+
+<img align="left" width="55px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" />
 <img align="left" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />
 <img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" />
 <img align="left" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />
-<img align="left" width="50px" src="https://www.drupal.org/files/project-images/bootstrap-stack.png" />
+<img align="left" width="50px" src="ht![image](https://user-images.githubusercontent.com/76985845/181020846-c388918d-a48d-4723-9149-12ae9ee19d7c.png)
+tps://www.drupal.org/files/project-images/bootstrap-stack.png" />
 <img align="left" width="40px" src="https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png" />
 <img align="left" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
 
