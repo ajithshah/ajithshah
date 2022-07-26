@@ -1,10 +1,17 @@
 # Hi there, I'm Ajithkumar Shah👋
 
 ## About
-### I am an MCA student at College of engineering Guindy, Anna University, Chennai.
+
+### I am an MCA Graduated at College of engineering Guindy, Anna University, Chennai.
 - Ability to adopt and learn new technologies.
 - Ability to communicate effectively with the team members.
 - Capacity to work in team or individually and take up responsibilities.
+
+### Software developer @indiespirit Technology.
+- Ability to adopt and learn new technologies.
+- Ability to communicate effectively with the team members.
+- Capacity to work in team or individually and take up responsibilities.
+
 
 ### Technical skills
 - Web Technologies: HTML, CSS, JavaScript, PHP, XML.
