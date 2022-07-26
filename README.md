@@ -34,7 +34,7 @@ tps://www.drupal.org/files/project-images/bootstrap-stack.png" />
 
 ## Database
 <img align="left" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAeQomtQzuDAjcc_cHuseCgWVpJeBCQ7U_Eg&usqp=CAU" />
-<img align="left" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" />
+<img align="left" width="90px" src="https://webimages.mongodb.com/_com_assets/cms/kusb9stg1ndrp7j53-MongoDBLogoBrand1.png?auto=format%252Ccompress" />
 <img align="center" width="30px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
 
 ## Field of interest
@@ -47,11 +47,6 @@ tps://www.drupal.org/files/project-images/bootstrap-stack.png" />
 [<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png" />][hackerrank]
 [<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
-[<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
-
-
-
-
 
 
 
