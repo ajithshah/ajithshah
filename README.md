@@ -2,23 +2,23 @@
 
 ## About
 
-### I am an MCA Graduated at College of engineering Guindy, Anna University, Chennai.
+### I am an MCA Graduated at College of engineering Guindy, Anna University, Chennai. :heart:
 - Ability to adopt and learn new technologies.
 - Ability to communicate effectively with the team members.
 - Capacity to work in team or individually and take up responsibilities.
 
 
-### Software developer [@indiespirit](https://www.indiespirit.in) Technology.
+### Software developer [@Indiespirit Technology](https://www.indiespirit.in). :heart:
 - Ability to adopt and learn new technologies.
 - Ability to communicate effectively with the team members.
 - Capacity to work in team or individually and take up responsibilities.
 
 
 ### Technical skills
-- Web Technologies: HTML, CSS, JavaScript, PHP, XML.
-- Programming Languages: C++
-- Database: MySQL, MongoDB and Oracle.
-- Operating System: – Windows, Mac OS X.
+- Web Technologies: HTML, CSS, JavaScript, PHP, JSON.
+- Programming Languages: Java.
+- Database: MongoDB and Mysql.
+- Operating System: – Mac OSX, Windows and Ubuntu.
 
 ### Languages Known
 
