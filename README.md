@@ -6,9 +6,9 @@
 - Ability to adopt and learn new technologies.
 - Ability to communicate effectively with the team members.
 - Capacity to work in team or individually and take up responsibilities.
-[Link to Google](https://www.google.com)
 
-### Software developer @indiespirit Technology.
+
+### Software developer [@indiespirit](https://www.indiespirit.in) Technology.
 - Ability to adopt and learn new technologies.
 - Ability to communicate effectively with the team members.
 - Capacity to work in team or individually and take up responsibilities.
