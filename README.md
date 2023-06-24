@@ -14,7 +14,7 @@
 - Capacity to work in team or individually and take up responsibilities.
 
 
-### Platform Engineer [@M2Pfintech](https://www.m2pfintech.in). :heart:
+### Platform Engineer [@M2Pfintech](https://m2pfintech.com/). :heart:
 - IDP Developer.
 - Terraform Development.
 - CI/CD Development.
