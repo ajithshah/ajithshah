@@ -8,7 +8,7 @@
 - Terraform Development.
 - CI/CD Automation.
 
-  ### Software Developer (Intenship) [@Indiespirit Technology](https://m2pfintech.com/). 🧑‍🎓:
+### Software Developer (Intenship) [@Indiespirit Technology](https://m2pfintech.com/). 🧑‍🎓:
 - Full Stach Developer (MERN).
 - Ability to communicate effectively with the team members.
 - Capacity to work in team or individually and take up responsibilities.
