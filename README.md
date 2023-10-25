@@ -2,43 +2,36 @@
 
 ## About
 
+### Platform Engineer [@M2Pfintech](https://m2pfintech.com/). :heart:
+- IDP Developer.
+- Cloud AWS
+- Terraform Development.
+- CI/CD Automation.
+
+  ### Software Developer (Intenship) [@Indiespirit Technology](https://m2pfintech.com/). :heart:
+- Full Stach Developer (MERN).
+- Ability to communicate effectively with the team members.
+- Capacity to work in team or individually and take up responsibilities.
+
 ### I am an MCA Graduated at College of engineering Guindy, Anna University, Chennai. :heart:
 - Ability to adopt and learn new technologies.
 - Ability to communicate effectively with the team members.
 - Capacity to work in team or individually and take up responsibilities.
 
 
-### Software developer [@Indiespirit Technology](https://m2pfintech.com/). :heart:
-- Ability to adopt and learn new technologies.
-- Ability to communicate effectively with the team members.
-- Capacity to work in team or individually and take up responsibilities.
-
-
-### Platform Engineer [@M2Pfintech](https://m2pfintech.com/). :heart:
-- IDP Developer.
-- Terraform Development.
-- CI/CD Development.
-
-
 ## Field of interest
-- Platform Engineer.
+- Platform Engineering.
 - Kubernetes Developer.
 - Python Developer.
+- React Developer.
 
 ## Social profile
 
 [<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png" />][hackerrank]
 
-
 [<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
-
 [<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
-
-
-
-
-
 
 
 
