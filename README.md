@@ -2,22 +2,19 @@
 
 ## About
 
-### Platform Engineer [@M2Pfintech](https://m2pfintech.com/). :heart:
+### Platform Engineer [@M2Pfintech](https://m2pfintech.com/). 💻:
 - IDP Developer.
 - Cloud AWS
 - Terraform Development.
 - CI/CD Automation.
 
-  ### Software Developer (Intenship) [@Indiespirit Technology](https://m2pfintech.com/). :heart:
+  ### Software Developer (Intenship) [@Indiespirit Technology](https://m2pfintech.com/). 🧑‍🎓:
 - Full Stach Developer (MERN).
 - Ability to communicate effectively with the team members.
 - Capacity to work in team or individually and take up responsibilities.
 
-### I am an MCA Graduated at College of engineering Guindy, Anna University, Chennai. :heart:
-- Ability to adopt and learn new technologies.
-- Ability to communicate effectively with the team members.
-- Capacity to work in team or individually and take up responsibilities.
-
+### Contribute Open Source Projects
+- [Spotity's Backstage](https://github.com/backstage/). 🎵:
 
 ## Field of interest
 - Platform Engineering.
