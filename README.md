@@ -1,39 +1,84 @@
-# Hi there, I'm Ajithkumar Shah👋
+# Hi there, I'm Ajithkumar Shah 👋
 
-## About
+🚀 Senior DevOps Engineer | Platform & Devops Engineering | Cloud & Kubernetes Enthusiast  
+📍 Chennai, India  
 
-### Platform Engineer Automation [@M2Pfintech](https://m2pfintech.com/). 💻:
-- IDP Developer.
-- Cloud AWS
-- Terraform Development.
-- CI/CD Automation.
+---
 
-### Software Developer (Intenship) [@Indiespirit Technology](https://m2pfintech.com/). 🧑‍🎓:
-- Full Stach Developer (MERN).
-- Ability to communicate effectively with the team members.
-- Capacity to work in team or individually and take up responsibilities.
+## 👨‍💻 About Me
 
-### Contribute Open Source Projects
-- [Spotity's Backstage](https://github.com/backstage/). 🎵:
+I’m a Platform & DevOps Engineer passionate about building scalable cloud-native systems, developer platforms, and automation-first infrastructure.  
 
-## Field of interest
-- Platform Engineering.
-- Kubernetes Developer.
-- Python Developer.
-- React Developer.
+I focus on improving developer experience (DX), enabling internal platforms, and implementing Infrastructure as Code and GitOps practices.
 
-## Social profile
+---
 
-[<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png" />][hackerrank]
+## 💼 Professional Experience
 
-[<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+### 🏢 Senior DevOps Engineer @ SuperOps
+- Designing and implementing scalable AWS cloud infrastructure.
+- Building and improving CI/CD pipelines.
+- Implementing Infrastructure as Code using Terraform.
+- Managing Kubernetes clusters and cloud-native workloads.
+- Driving DevOps and Platform Engineering best practices.
 
-[<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
+---
 
+### 🏢 Platform Engineer – Automation @ M2P Fintech
+- Developed Internal Developer Platform (IDP).
+- Automated cloud infrastructure provisioning (AWS).
+- Terraform module development.
+- CI/CD automation and pipeline optimization.
 
+---
 
+### 🏢 Software Developer (Intern) @ Indiespirit Technology
+- Full Stack Developer (MERN stack).
+- Worked collaboratively in agile teams.
+- Delivered scalable web applications.
 
+---
 
-[linkedin]: https://www.linkedin.com/in/ajithkumar-shah-j-k-9a5788182/
-[instagram]: https://www.instagram.com/ajith._.shah/
-[hackerrank]: https://www.hackerrank.com/ajithkumarshah16
+## 🛠️ Tech Stack
+
+**Cloud & DevOps**
+- AWS
+- Terraform
+- Kubernetes
+- Docker
+- GitHub Actions / CI-CD
+- ArgoCD (GitOps)
+
+**Development**
+- Python
+- React
+- Node.js (MERN)
+
+---
+
+## 🌱 Open Source Contributions
+
+- 🎵 Backstage (Spotify’s Developer Portal)  
+  https://github.com/backstage/backstage
+
+---
+
+## 🎯 Areas of Interest
+
+- Platform Engineering
+- Kubernetes & Cloud Native
+- Internal Developer Platforms (IDP)
+- Infrastructure as Code
+- Developer Experience (DX)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ajithkumar-shah-j-k-9a5788182/
+- 📸 Instagram: https://www.instagram.com/ajith._.shah/
+- 🧑‍💻 HackerRank: https://www.hackerrank.com/ajithkumarshah16
+
+---
+
+⭐ Always open to collaborating on cloud-native and platform engineering projects.
